@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  SimpleToDo
+
+  Created by Olha Danylova on 27.12.16.
+  Copyright © 2016 Olha Danylova. All rights reserved.
+*/
+
+"standardTitle" = "ToDo Lists";
+"cancelTitle" = "Cancel";
+"editTitle" = "Edit";
+"doneTitle" = "Done";
+"createNewTitle" = "New";
+"deleteTitle" = "Delete";
+
+
+"listsString" = "lists:";
+"tasksString" = "tasks:";
+"inListString" = "in list";
+"dateFormat" = "dd/MM/yyyy";
+"dateFormatWithHours" = "MM/dd/yyyy HH:mm";
+"remindString" = "remind ";
+"expiredString" = "expired";
+"listPopupCreateString" = "New list";
+"listPopupRenameString" = "Rename list";
+"taskPopupCreateString" = "New task";
+"listNameString" = "List name";
+"deleteItemString" = "Delete this item?";
+"deleteItemsString" = "Delete these items?";
+"expandLists" = "- Lists";
+"hideLists" = "+ Lists";
+"expandTasks" = "- Tasks";
+"hideTasks" = "+ Tasks";
+"expandCompletedTasks" = "- Completed tasks";
+"hideCompletedTasks" = "+ Completed tasks";
+"ooopsString" = "Ooooops!";
+"ooopsMessageString" = "There is no data you can edit here";
+"ooopsButtonString" = "Back";

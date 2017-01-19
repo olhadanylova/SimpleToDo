@@ -1,0 +1,37 @@
+/* 
+  Localizable.strings
+  SimpleToDo
+
+  Created by Olha Danylova on 27.12.16.
+  Copyright © 2016 Olha Danylova. All rights reserved.
+*/
+
+"standardTitle" = "Списки дел";
+"cancelTitle" = "Отмена";
+"editTitle" = "Изменить";
+"doneTitle" = "Готово";
+"createNewTitle" = "Создать";
+"deleteTitle" = "Удалить";
+
+"listsString" = "списки:";
+"tasksString" = "задания:";
+"inListString" = "в списке";
+"dateFormat" = "dd/MM/yyyy";
+"dateFormatWithHours" = "dd/MM/yyyy HH:mm";
+"remindString" = "напомнить ";
+"expiredString" = "истекло";
+"listPopupCreateString" = "Новый список";
+"listPopupRenameString" = "Переименовать список";
+"taskPopupCreateString" = "Новое задание";
+"listNameString" = "Название списка";
+"deleteItemString" = "Удалить этот объект?";
+"deleteItemsString" = "Удалить эти объекты?";
+"expandLists" = "- Списки";
+"hideLists" = "+ Списки";
+"expandTasks" = "- Задания";
+"hideTasks" = "+ Задания";
+"expandCompletedTasks" = "- Завершенные задания";
+"hideCompletedTasks" = "+ Завершенные задания";
+"ooopsString" = "Ууууупс!";
+"ooopsMessageString" = "Здесь нет данных, которые можно было бы редактировать";
+"ooopsButtonString" = "Назад";

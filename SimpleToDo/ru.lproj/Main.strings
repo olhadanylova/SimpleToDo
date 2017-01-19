@@ -1,0 +1,51 @@
+
+/* Class = "UIButton"; normalTitle = "●"; ObjectID = "6CW-bx-DIO"; */
+"6CW-bx-DIO.normalTitle" = "●";
+
+/* Class = "UITableViewController"; title = "Master"; ObjectID = "7bK-jq-Zjz"; */
+"7bK-jq-Zjz.title" = "Master";
+
+/* Class = "UILabel"; text = "Expiration Date"; ObjectID = "9Kj-wk-Up2"; */
+"jCl-bT-x8X.text" = "Напоминание";
+
+/* Class = "UIViewController"; title = "Detail"; ObjectID = "JEX-9P-axG"; */
+"JEX-9P-axG.title" = "Detail";
+
+/* Class = "UIBarButtonItem"; title = "New"; ObjectID = "OnZ-Gq-4za"; */
+"OnZ-Gq-4za.title" = "Создать";
+
+/* Class = "UIBarButtonItem"; title = "Edit"; ObjectID = "P5y-fO-iYi"; */
+"P5y-fO-iYi.title" = "Изменить";
+
+/* Class = "UINavigationController"; title = "Master"; ObjectID = "RMx-3f-FxP"; */
+"RMx-3f-FxP.title" = "Master";
+
+/* Class = "UIButton"; normalTitle = "✓"; ObjectID = "Szf-aA-XcB"; */
+"Szf-aA-XcB.normalTitle" = "✓";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "T3Z-FN-ZDc"; */
+"T3Z-FN-ZDc.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Delete"; ObjectID = "Yes-Nr-Q4b"; */
+"Yes-Nr-Q4b.title" = "Удалить";
+
+/* Class = "UINavigationItem"; title = "Master"; ObjectID = "Zdf-7t-Un8"; */
+"Zdf-7t-Un8.title" = "Master";
+
+/* Class = "UILabel"; text = "Notes"; ObjectID = "anm-4i-R6L"; */
+"vEL-CD-W8f.text" = "Заметки";
+
+/* Class = "UILabel"; text = "Details"; ObjectID = "b7Z-p6-TiE"; */
+"b7Z-p6-TiE.text" = "Details";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "dfT-zO-rNg"; */
+"dfT-zO-rNg.title" = "Сохранить";
+
+/* Class = "UINavigationItem"; title = "Detail"; ObjectID = "mOI-FS-AaM"; */
+"mOI-FS-AaM.title" = "Detail";
+
+/* Class = "UILabel"; text = "Task Description"; ObjectID = "WOR-j6-z2G"; */
+"WOR-j6-z2G.text" = "Описание задания";
+
+/* Class = "UINavigationController"; title = "Detail"; ObjectID = "vC3-pB-5Vb"; */
+"vC3-pB-5Vb.title" = "Detail";
